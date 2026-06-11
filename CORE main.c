@@ -1,4 +1,16 @@
 /*
+/*
+ * =============================================================================
+ *                     A D I _ A S T R O N
+ * 
+ * SSET-02 / SSET-03 Rocket Launch Simulator Firmware
+ * Copyright (c) 2026 Adi Astron (Aditya). All Rights Reserved.
+ *
+ * This file is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is 
+ * strictly prohibited.
+ * =============================================================================
+ *
  * SSET_02_GSLV_Compression_System
  * STM32H743ZI2 Firmware - 14 Axis Synchronized Stepper Compression
  * Real-time force feedback, PID, FreeRTOS, Safety Critical
